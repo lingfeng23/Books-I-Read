@@ -5,7 +5,7 @@
 
 ### 索引：
 
-[文学小说]: 
+[文学小说]: https://github.com/lingfeng23/Books-I-Read#文学小说
 
 文学小说
 
