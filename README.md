@@ -7,7 +7,7 @@
 
 [文学小说](https://github.com/lingfeng23/Books-I-Read#文学小说)
 
-[历史军事](历史军事)
+[历史军事](https://github.com/lingfeng23/Books-I-Read#￥ﾎﾆ￥ﾏﾲ￥ﾆﾛ￤ﾺﾋ)
 
 [技术学习](技术学习)
 
