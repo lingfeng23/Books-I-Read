@@ -7,15 +7,15 @@
 
 [文学小说](https://github.com/lingfeng23/Books-I-Read#文学小说)
 
-[历史军事](https://github.com/lingfeng23/Books-I-Read#￥ﾎﾆ￥ﾏﾲ￥ﾆﾛ￤ﾺﾋ)
+[历史军事](https://github.com/lingfeng23/Books-I-Read#历史军事)
 
-[技术学习](技术学习)
+[技术学习](https://github.com/lingfeng23/Books-I-Read#技术学习)
 
-[传记励志](传记励志)
+[传记励志](https://github.com/lingfeng23/Books-I-Read#传记励志)
 
-[情感青春](情感青春)
+[情感青春](https://github.com/lingfeng23/Books-I-Read#情感青春)
 
-[其他](其他)
+[其他](https://github.com/lingfeng23/Books-I-Read#其他)
 
 ------
 
