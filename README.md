@@ -59,6 +59,8 @@
 
 2016年10月	《你只是看起来很努力》
 
+2017年1月	[《你一年的8760小时》](https://github.com/lingfeng23/Books-I-Read/blob/master/AfterRead/%E3%80%8A%E4%BD%A0%E4%B8%80%E5%B9%B4%E7%9A%848760%E5%B0%8F%E6%97%B6%E3%80%8B.md)
+
 #### 情感青春：
 
 2016年9月	《从你的全世界路过》
